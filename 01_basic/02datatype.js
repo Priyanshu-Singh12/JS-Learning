@@ -1,4 +1,5 @@
-//original documentation is on tc39.es not mdn
+//original documentation is on tc39.es not mdn but mdn is easy to study
+
 "use strict"; //treat all js code as newer version
 
 //alert(3+3)  //we are using nodejs ,not browser
