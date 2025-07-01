@@ -23,6 +23,9 @@ console.log(myCreatedDate.getTime())
 //other 
 console.log(mydate.getMonth()+1)// give 1 less than month
 console.log(mydate.toLocaleString("dafault",{
-    weekday:"long",
-    
+    weekday: "long",
+  year: "numeric",
+  month: "long",
+  day: "numeric",
+
 }))
