@@ -32,3 +32,12 @@ function extension(item){
     console.log(item.langExtenstion)
 }
 codeExtension.forEach(extension)//!reference of function is passed not function called++
+
+
+//It does not return anything
+
+const a=coding.forEach(function  (value){
+    return value
+})
+
+console.log(a)
