@@ -12,7 +12,8 @@ const cart=[
     {
         item:"toothpaste",
         price:100
-    },{
+    },
+    {
         item:"biscuit",
         price:50
 

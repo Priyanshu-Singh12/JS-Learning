@@ -3,7 +3,7 @@
 //1    Primitive type  7 
 //actual value is stored in stack
 //faster
-//null,undefined,bigInt,symbol,number,string
+//null,undefined,bigInt,symbol,number,string,boolean
 
 let id=Symbol("122")
 let accountId=Symbol("122")
